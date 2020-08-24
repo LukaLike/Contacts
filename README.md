@@ -5,5 +5,8 @@ This is a program which lets you to creates contacts (like on the mobile phone) 
 ### Covered features:
 Inheritance, polymorphism, serialization, files, regex.
 
+### TODO:
+Implement command pattern.
+
 ### Usage:
 ![Usage](https://github.com/LukaLike/demo/blob/master/hyperskill-contacts.gif)
