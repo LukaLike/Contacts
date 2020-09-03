@@ -8,5 +8,5 @@ Inheritance, polymorphism, serialization, files, regex.
 ### TODO:
 Implement command pattern.
 
-### Usage:
-![Usage](https://github.com/LukaLike/demo/blob/master/hyperskill-contacts.gif)
+### Result:
+![Result](https://github.com/LukaLike/demo/blob/master/hyperskill-contacts.gif)
